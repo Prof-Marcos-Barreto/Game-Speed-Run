@@ -1,4 +1,3 @@
-markdown
 # 🏎️ Car Speed Run (Beta)
 
 ![Screenshot do Car Speed Run](https://img.itch.zone/aW1nLzMxNzg1OTY0LnBuZw==/105x83%23/%2BPyD4M.png)
