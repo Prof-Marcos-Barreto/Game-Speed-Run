@@ -1,0 +1,18 @@
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Pastas geradas pelo PyInstaller
+build/
+dist/
+
+# Sistema Operacional (Windows/Mac)
+.DS_Store
+Thumbs.db
+desktop.ini
