@@ -43,7 +43,7 @@ Se você quiser rodar o jogo a partir do código-fonte:
    python nome_do_arquivo_principal.py
 
 ## 📌 Status do Projeto
-* Versão atual: Beta / Protótipo
-* Próximos passos: Novas mecânicas, otimização de performance e correção de bugs.
+* **Versão atual:** Beta / Protótipo
+* **Próximos passos:** Novas mecânicas, otimização de performance e correção de bugs.
 
-Desenvolvido por Marcos Barreto
+**Desenvolvido por Marcos Barreto**
