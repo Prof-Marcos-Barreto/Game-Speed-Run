@@ -34,22 +34,16 @@ Se você quiser rodar o jogo a partir do código-fonte:
    git clone https://github.com/Prof-Marcos-Barreto/Car-Speed-Run.git
 Se você quiser rodar o jogo a partir do código-fonte:
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Prof-Marcos-Barreto/Car-Speed-Run.git
 2. Instale a biblioteca Pygame:
-
-bash
-pip install pygame
+   ```bash
+   pip install pygame
 
 3. Execute o arquivo principal:
+   ```bash
+   python nome_do_arquivo_principal.py
 
-bash
-python nome_do_arquivo_principal.py
-
-📌 Status do Projeto
-Versão atual: Beta / Protótipo
-
-Próximos passos: Novas mecânicas, otimização de performance e correção de bugs.
+## 📌 Status do Projeto
+* **Versão atual: Beta / Protótipo
+* **Próximos passos: Novas mecânicas, otimização de performance e correção de bugs.
 
 Desenvolvido por Marcos Barreto
