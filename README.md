@@ -9,6 +9,8 @@ Um jogo de corrida infinita 2D desenvolvido em Python. Viaje por diferentes esta
 Você pode baixar o executável (.exe) e jogar diretamente no Windows através do Itch.io:
 👉 **[Clique aqui para baixar o jogo no Itch.io](https://prof-marcos-barreto.itch.io/car-speed-run)**
 
+*Alternativa:* Se preferir, você também pode baixar o arquivo `.zip` diretamente deste repositório clicando no arquivo `Car Speed Run.zip` na lista de arquivos acima.
+
 ## 🕹️ Controles
 
 *   **Setas:** Movimentar o carro.
